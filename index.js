@@ -44,8 +44,8 @@ quizList = [
     answer: "Beaches"
   },
   {
-    question: "Which was my favorite movie as a child? (Full name) ",
-    answer: "Main prem ki diwani hoon"
+    question: "Who was my favorite actress as a child? (Full name) ",
+    answer: "Kareena Kapoor"
   },
 ]
 
